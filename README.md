@@ -179,8 +179,7 @@ You should now have a React Application on the Permaweb! Great Job!
 
 ## Repository
 
-A completed version of this example is available here: [https://github.com/twilson63/permaweb-minimal-svelte-starter](https://github.com/twilson63/permaweb-minimal-svelte-starter)
-
+A completed version of this example is available here: [https://github.com/VinceJuliano/permaweb-create-react-app](https://github.com/VinceJuliano/permaweb-create-react-app)
 ## Summary
 
 This is a Create React App version of publishing a React app on the permaweb. You may discover new ways to deploy an app on the permaweb or checkout other starter kits in this guide!
